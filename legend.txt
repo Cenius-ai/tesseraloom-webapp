@@ -1,0 +1,5 @@
+WHT Chalk white
+SLT Slate grey
+CRM Crimson
+GLD Old gold
+IND Indigo
