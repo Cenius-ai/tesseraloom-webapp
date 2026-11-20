@@ -1,0 +1,6 @@
+# TesseraLoom has no third-party runtime dependencies: it is a single-file,
+# standard-library-only Python program (Python 3.9+).
+#
+# `pip install -r requirements.txt` therefore installs nothing and succeeds,
+# which keeps `bash install.sh` honest on an offline machine.
+# The test runner lives in requirements-dev.txt.
